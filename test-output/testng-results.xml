@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Eurowings Project" duration-ms="21497" started-at="2023-07-19T23:27:28 CEST" finished-at="2023-07-19T23:27:50 CEST">
+    <groups>
+    </groups>
+    <test name="FunctionalValidation" duration-ms="21497" started-at="2023-07-19T23:27:28 CEST" finished-at="2023-07-19T23:27:50 CEST">
+      <class name="com.eurowings.testcases.TC001_FlightStatusValidation_ByFlightRoute">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.eurowings.testcases.TC001_FlightStatusValidation_ByFlightRoute@3aeaafa6]" name="beforeSuite" is-config="true" duration-ms="774" started-at="2023-07-19T23:27:27 CEST" finished-at="2023-07-19T23:27:28 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setValues()[pri:0, instance:com.eurowings.testcases.TC001_FlightStatusValidation_ByFlightRoute@3aeaafa6]" name="setValues" is-config="true" duration-ms="0" started-at="2023-07-19T23:27:28 CEST" finished-at="2023-07-19T23:27:28 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.eurowings.testcases.TC001_FlightStatusValidation_ByFlightRoute@3aeaafa6]" name="browser" is-config="true" duration-ms="4783" started-at="2023-07-19T23:27:28 CEST" finished-at="2023-07-19T23:27:33 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="validateProductSearch(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.eurowings.testcases.TC001_FlightStatusValidation_ByFlightRoute@3aeaafa6]" name="validateProductSearch" duration-ms="5671" started-at="2023-07-19T23:27:33 CEST" data-provider="fetchData" finished-at="2023-07-19T23:27:39 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CGN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[BER]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2023-07-20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProductSearch -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.eurowings.testcases.TC001_FlightStatusValidation_ByFlightRoute@3aeaafa6]" name="afterMethod" is-config="true" duration-ms="55" started-at="2023-07-19T23:27:39 CEST" finished-at="2023-07-19T23:27:39 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateProductSearch status=SUCCESS method=TC001_FlightStatusValidation_ByFlightRoute.validateProductSearch(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.eurowings.testcases.TC001_FlightStatusValidation_ByFlightRoute@3aeaafa6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.eurowings.testcases.TC001_FlightStatusValidation_ByFlightRoute@3aeaafa6]" name="tearDown" is-config="true" duration-ms="1037" started-at="2023-07-19T23:27:39 CEST" finished-at="2023-07-19T23:27:40 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.eurowings.testcases.TC001_FlightStatusValidation_ByFlightRoute@3aeaafa6]" name="afterSuite" is-config="true" duration-ms="326" started-at="2023-07-19T23:27:50 CEST" finished-at="2023-07-19T23:27:50 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.eurowings.testcases.TC001_FlightStatusValidation_ByFlightRoute -->
+      <class name="com.eurowings.testcases.TC002_FlightStatusValidation_ByFlightNumber">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.eurowings.testcases.TC002_FlightStatusValidation_ByFlightNumber@76a3e297]" name="beforeSuite" is-config="true" duration-ms="65" started-at="2023-07-19T23:27:28 CEST" finished-at="2023-07-19T23:27:28 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setValues()[pri:0, instance:com.eurowings.testcases.TC002_FlightStatusValidation_ByFlightNumber@76a3e297]" name="setValues" is-config="true" duration-ms="1" started-at="2023-07-19T23:27:28 CEST" finished-at="2023-07-19T23:27:28 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.eurowings.testcases.TC002_FlightStatusValidation_ByFlightNumber@76a3e297]" name="browser" is-config="true" duration-ms="3666" started-at="2023-07-19T23:27:40 CEST" finished-at="2023-07-19T23:27:43 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="validateProductSearch(java.lang.String, java.lang.String)[pri:0, instance:com.eurowings.testcases.TC002_FlightStatusValidation_ByFlightNumber@76a3e297]" name="validateProductSearch" duration-ms="5051" started-at="2023-07-19T23:27:43 CEST" data-provider="fetchData" finished-at="2023-07-19T23:27:49 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EW8059]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2023-07-21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProductSearch -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.eurowings.testcases.TC002_FlightStatusValidation_ByFlightNumber@76a3e297]" name="afterMethod" is-config="true" duration-ms="115" started-at="2023-07-19T23:27:49 CEST" finished-at="2023-07-19T23:27:49 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateProductSearch status=SUCCESS method=TC002_FlightStatusValidation_ByFlightNumber.validateProductSearch(java.lang.String, java.lang.String)[pri:0, instance:com.eurowings.testcases.TC002_FlightStatusValidation_ByFlightNumber@76a3e297] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.eurowings.testcases.TC002_FlightStatusValidation_ByFlightNumber@76a3e297]" name="tearDown" is-config="true" duration-ms="961" started-at="2023-07-19T23:27:49 CEST" finished-at="2023-07-19T23:27:50 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.eurowings.testcases.TC002_FlightStatusValidation_ByFlightNumber -->
+    </test> <!-- FunctionalValidation -->
+  </suite> <!-- Eurowings Project -->
+</testng-results>

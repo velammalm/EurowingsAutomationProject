@@ -1,0 +1,4 @@
+2023-02-26 14:31:53  INFO [main] WebEventListener:16 - Before navigating to: 'https://www.pflegia.de/'
+2023-02-26 14:31:54  INFO [main] WebEventListener:20 - Navigated to:'https://www.pflegia.de/'
+2023-02-26 14:31:54  INFO [main] WebEventListener:81 - Browser is Launched
+2023-02-26 14:31:54  INFO [main] SearchPageObjectRepository:61 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]//parent::div

@@ -1,0 +1,500 @@
+2021-08-10 13:43:33  INFO [main] WebEventListener:15 - Before navigating to: 'https://www.autohero.com/de/search/'
+2021-08-10 13:43:35  INFO [main] WebEventListener:19 - Navigated to:'https://www.autohero.com/de/search/'
+2021-08-10 13:43:35  INFO [main] WebEventListener:79 - Browser is Launched
+2021-08-10 13:43:35  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]//parent::div
+2021-08-10 13:43:35  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'closeBtn')]//parent::div
+2021-08-10 13:43:35  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]//parent::div
+2021-08-10 13:43:35  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'closeBtn')]//parent::div
+2021-08-10 13:43:35  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]
+2021-08-10 13:43:35  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'closeBtn')]
+2021-08-10 13:43:35  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'closeBtn')]
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:69 - Executing beforeScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'closeBtn')]
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:74 - Executing afterScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'closeBtn')]
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:31 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'closeBtn')]]
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:35 - Clicked On: [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'closeBtn')]]
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.id: carMakeFilter
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.id: carMakeFilter
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:31 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> id: carMakeFilter]
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:35 - Clicked On: [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> id: carMakeFilter]
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //input[@value='Volkswagen']
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //input[@value='Volkswagen']
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:69 - Executing beforeScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:74 - Executing afterScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:31 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //input[@value='Volkswagen']]
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:35 - Clicked On: [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //input[@value='Volkswagen']]
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:127 - Before get Screenshot
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:112 - Screenshot is captured
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //input[@value='Golf']
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //input[@value='Golf']
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:69 - Executing beforeScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:74 - Executing afterScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:36  INFO [main] SearchPageObjectRepository:31 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //input[@value='Golf']]
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:35 - Clicked On: [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //input[@value='Golf']]
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:127 - Before get Screenshot
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:112 - Screenshot is captured
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.id: mileageFilter
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.id: mileageFilter
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.id: mileageFilter
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.id: mileageFilter
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:69 - Executing beforeScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.id: mileageFilter
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.id: mileageFilter
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:74 - Executing afterScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.id: mileageFilter
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.id: mileageFilter
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:31 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> id: mileageFilter]
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:35 - Clicked On: [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> id: mileageFilter]
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:69 - Executing beforeScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:37  INFO [main] SearchPageObjectRepository:74 - Executing afterScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: .//option[normalize-space(.) = "25.000 km"]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: .//option[normalize-space(.) = "25.000 km"]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:31 - Trying to Click On: [[[[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: (//Select[@id='rangeEnd'])[3]]] -> xpath: .//option[normalize-space(.) = "25.000 km"]]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:35 - Clicked On: [[[[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: (//Select[@id='rangeEnd'])[3]]] -> xpath: .//option[normalize-space(.) = "25.000 km"]]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.id: mileageFilter
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.id: mileageFilter
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:104 - Before changing value of : [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> id: mileageFilter]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:108 - After changing value of : [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> id: mileageFilter]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:127 - Before get Screenshot
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:112 - Screenshot is captured
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //li[contains(@class,'item')]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //li[contains(@class,'item')]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //li[contains(@class,'item')]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //li[contains(@class,'item')]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //li[contains(@class,'item')]] is Marke: Volkswagen
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //li[contains(@class,'item')]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //li[contains(@class,'item')]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //li[contains(@class,'item')]] is Modell: Golf
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //li[contains(@class,'item')]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //li[contains(@class,'item')]
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //li[contains(@class,'item')]] is Kilometer: Bis 25.000 km
+2021-08-10 13:43:38  INFO [main] SearchPageObjectRepository:127 - Before get Screenshot
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:112 - Screenshot is captured
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII Sportsvan
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII Sportsvan
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:39  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII Sportsvan
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII Sportsvan
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII Sportsvan
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII Sportsvan
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII Sportsvan
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf VII Sportsvan
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Volkswagen Golf
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+18.627 km
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+18.627 km
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+19.575 km
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+19.575 km
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+20.325 km
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+20.325 km
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+19.291 km
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+19.291 km
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+23.250 km
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+23.250 km
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+13.433 km
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+13.433 km
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+15.108 km
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+15.108 km
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+14.945 km
+2021-08-10 13:43:40  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+14.945 km
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+21.848 km
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+21.848 km
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+19.367 km
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+19.367 km
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+7.996 km
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+7.996 km
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+10.392 km
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+10.392 km
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+24.999 km
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+24.999 km
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+16.876 km
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+16.876 km
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+24.851 km
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (f5aa89e7ada8a63f45070a06630ec9a5)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+24.851 km
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:127 - Before get Screenshot
+2021-08-10 13:43:41  INFO [main] SearchPageObjectRepository:112 - Screenshot is captured
+2021-08-10 13:43:42  INFO [main] SearchPageObjectRepository:127 - Before get Screenshot
+2021-08-10 13:43:42  INFO [main] SearchPageObjectRepository:112 - Screenshot is captured
+2021-08-10 13:43:43  INFO [main] SearchPageObjectRepository:48 - Browser Terminated
+2021-08-10 13:43:43  INFO [main] SearchPageObjectRepository:49 - -----------------------------------------------
+2021-08-10 13:43:44  INFO [main] WebEventListener:15 - Before navigating to: 'https://www.autohero.com/de/search/'
+2021-08-10 13:43:46  INFO [main] WebEventListener:19 - Navigated to:'https://www.autohero.com/de/search/'
+2021-08-10 13:43:46  INFO [main] WebEventListener:79 - Browser is Launched
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]//parent::div
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'closeBtn')]//parent::div
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]//parent::div
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'closeBtn')]//parent::div
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'closeBtn')]
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'closeBtn')]
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:69 - Executing beforeScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'closeBtn')]
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:74 - Executing afterScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'closeBtn')]
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:31 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //button[contains(@class,'closeBtn')]]
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:35 - Clicked On: [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //button[contains(@class,'closeBtn')]]
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.id: carMakeFilter
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.id: carMakeFilter
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:31 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> id: carMakeFilter]
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:35 - Clicked On: [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> id: carMakeFilter]
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //input[@value='Honda']
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //input[@value='Honda']
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:69 - Executing beforeScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:74 - Executing afterScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:31 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //input[@value='Honda']]
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:35 - Clicked On: [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //input[@value='Honda']]
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:127 - Before get Screenshot
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:112 - Screenshot is captured
+2021-08-10 13:43:46  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //input[@value='Civic']
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //input[@value='Civic']
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:69 - Executing beforeScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:74 - Executing afterScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:31 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //input[@value='Civic']]
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:35 - Clicked On: [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //input[@value='Civic']]
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:127 - Before get Screenshot
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:112 - Screenshot is captured
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.id: mileageFilter
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.id: mileageFilter
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.id: mileageFilter
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.id: mileageFilter
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:69 - Executing beforeScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.id: mileageFilter
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.id: mileageFilter
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:74 - Executing afterScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.id: mileageFilter
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.id: mileageFilter
+2021-08-10 13:43:47  INFO [main] SearchPageObjectRepository:31 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> id: mileageFilter]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:35 - Clicked On: [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> id: mileageFilter]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:69 - Executing beforeScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:74 - Executing afterScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: (//Select[@id='rangeEnd'])[3]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: .//option[normalize-space(.) = "50.000 km"]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: .//option[normalize-space(.) = "50.000 km"]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:31 - Trying to Click On: [[[[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: (//Select[@id='rangeEnd'])[3]]] -> xpath: .//option[normalize-space(.) = "50.000 km"]]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:35 - Clicked On: [[[[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: (//Select[@id='rangeEnd'])[3]]] -> xpath: .//option[normalize-space(.) = "50.000 km"]]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.id: mileageFilter
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.id: mileageFilter
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:104 - Before changing value of : [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> id: mileageFilter]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:108 - After changing value of : [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> id: mileageFilter]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:127 - Before get Screenshot
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:112 - Screenshot is captured
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //li[contains(@class,'item')]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //li[contains(@class,'item')]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //li[contains(@class,'item')]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //li[contains(@class,'item')]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //li[contains(@class,'item')]] is Marke: Honda
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //li[contains(@class,'item')]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //li[contains(@class,'item')]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //li[contains(@class,'item')]] is Modell: Civic
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //li[contains(@class,'item')]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //li[contains(@class,'item')]
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //li[contains(@class,'item')]] is Kilometer: Bis 50.000 km
+2021-08-10 13:43:48  INFO [main] SearchPageObjectRepository:127 - Before get Screenshot
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:112 - Screenshot is captured
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Honda Civic
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Honda Civic
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Honda Civic
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//h2
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //button[contains(@class,'root')]/ancestor::a//h2] is Honda Civic
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+33.482 km
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+33.482 km
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+46.245 km
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:60 - Trying to Find Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:64 - Found Element By : By.xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:131 - Before get text
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:118 - text from element [[ChromeDriver: chrome on WINDOWS (6633cc562c1b789ada373666e71c862d)] -> xpath: //button[contains(@class,'root')]/ancestor::a//ul/li[3]] is •
+46.245 km
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:127 - Before get Screenshot
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:112 - Screenshot is captured
+2021-08-10 13:43:49  INFO [main] SearchPageObjectRepository:127 - Before get Screenshot
+2021-08-10 13:43:50  INFO [main] SearchPageObjectRepository:112 - Screenshot is captured
+2021-08-10 13:43:50  INFO [main] SearchPageObjectRepository:48 - Browser Terminated
+2021-08-10 13:43:50  INFO [main] SearchPageObjectRepository:49 - -----------------------------------------------

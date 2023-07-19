@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Lampenwelt Project Testing]">
+  <listeners>
+    <listener class-name="com.lampenwelt.utils.AnnotationTransformer"/>
+  </listeners>
+  <test thread-count="5" name="Regression(failed)">
+    <classes>
+      <class name="com.autohero.testcases.TC001_SearchValidation">
+        <methods>
+          <include name="report"/>
+          <include name="stopReport"/>
+          <include name="startReport"/>
+          <include name="validateProductSearch"/>
+          <include name="browser"/>
+          <include name="setValues"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.autohero.testcases.TC001_SearchValidation -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [Lampenwelt Project Testing] -->

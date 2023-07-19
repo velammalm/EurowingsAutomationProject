@@ -1,0 +1,65 @@
+2023-07-19 11:35:25  INFO [main] WebEventListener:16 - Before navigating to: 'https://www.eurowings.com/en/information/at-the-airport/flight-status.html'
+2023-07-19 11:35:28  INFO [main] WebEventListener:20 - Navigated to:'https://www.eurowings.com/en/information/at-the-airport/flight-status.html'
+2023-07-19 11:35:28  INFO [main] WebEventListener:81 - Browser is Launched
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: //button[@data-toogle='true']
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: //button[@data-toogle='true']
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: //button[@data-toogle='true']
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: //button[@data-toogle='true']
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: //button[@data-toogle='true']
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: //button[@data-toogle='true']
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: //button[@data-toogle='true']
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: //button[@data-toogle='true']
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:70 - Executing beforeScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: //button[@data-toogle='true']
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: //button[@data-toogle='true']
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:75 - Executing afterScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: //button[@data-toogle='true']
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: //button[@data-toogle='true']
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:32 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (8e9ba854ecb653e7cb7a16dd9f9efd5c)] -> xpath: //button[@data-toogle='true']]
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:36 - Clicked On: [[ChromeDriver: chrome on WINDOWS (8e9ba854ecb653e7cb7a16dd9f9efd5c)] -> xpath: //button[@data-toogle='true']]
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:70 - Executing beforeScript method: arguments[0].scrollIntoView(true);
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: (//button[contains(@class,'compact-search')])[1]
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: (//button[contains(@class,'compact-search')])[1]
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:75 - Executing afterScript method: arguments[0].scrollIntoView(true);
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: (//button[contains(@class,'compact-search')])[2]
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: (//button[contains(@class,'compact-search')])[2]
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: (//button[contains(@class,'compact-search')])[2]
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: (//button[contains(@class,'compact-search')])[2]
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:70 - Executing beforeScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: (//button[contains(@class,'compact-search')])[2]
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: (//button[contains(@class,'compact-search')])[2]
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:75 - Executing afterScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: (//button[contains(@class,'compact-search')])[2]
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: (//button[contains(@class,'compact-search')])[2]
+2023-07-19 11:35:28  INFO [main] FlightStatusObjectRepository:32 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (8e9ba854ecb653e7cb7a16dd9f9efd5c)] -> xpath: (//button[contains(@class,'compact-search')])[2]]
+2023-07-19 11:35:29  INFO [main] FlightStatusObjectRepository:36 - Clicked On: [[ChromeDriver: chrome on WINDOWS (8e9ba854ecb653e7cb7a16dd9f9efd5c)] -> xpath: (//button[contains(@class,'compact-search')])[2]]
+2023-07-19 11:35:29  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: //input[@aria-label='Destination airport']
+2023-07-19 11:35:29  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: //input[@aria-label='Destination airport']
+2023-07-19 11:35:29  INFO [main] FlightStatusObjectRepository:105 - Before changing value of : [[ChromeDriver: chrome on WINDOWS (8e9ba854ecb653e7cb7a16dd9f9efd5c)] -> xpath: //input[@aria-label='Destination airport']]
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:109 - After changing value of : [[ChromeDriver: chrome on WINDOWS (8e9ba854ecb653e7cb7a16dd9f9efd5c)] -> xpath: //input[@aria-label='Destination airport']]
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:128 - Before get Screenshot
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:113 - Screenshot is captured
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: (//button[contains(@class,'compact-search')])[1]
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: (//button[contains(@class,'compact-search')])[1]
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: (//button[contains(@class,'compact-search')])[1]
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: (//button[contains(@class,'compact-search')])[1]
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: (//button[contains(@class,'compact-search')])[1]
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: (//button[contains(@class,'compact-search')])[1]
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:70 - Executing beforeScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: (//button[contains(@class,'compact-search')])[1]
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: (//button[contains(@class,'compact-search')])[1]
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:75 - Executing afterScript method: arguments[0].setAttribute('style', 'border:2px solid red; background:yellow');
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: (//button[contains(@class,'compact-search')])[1]
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: (//button[contains(@class,'compact-search')])[1]
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:32 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (8e9ba854ecb653e7cb7a16dd9f9efd5c)] -> xpath: (//button[contains(@class,'compact-search')])[1]]
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:36 - Clicked On: [[ChromeDriver: chrome on WINDOWS (8e9ba854ecb653e7cb7a16dd9f9efd5c)] -> xpath: (//button[contains(@class,'compact-search')])[1]]
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:61 - Trying to Find Element By : By.xpath: //input[@aria-label='Departure airport']
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:65 - Found Element By : By.xpath: //input[@aria-label='Departure airport']
+2023-07-19 11:35:30  INFO [main] FlightStatusObjectRepository:105 - Before changing value of : [[ChromeDriver: chrome on WINDOWS (8e9ba854ecb653e7cb7a16dd9f9efd5c)] -> xpath: //input[@aria-label='Departure airport']]
+2023-07-19 11:35:31  INFO [main] FlightStatusObjectRepository:109 - After changing value of : [[ChromeDriver: chrome on WINDOWS (8e9ba854ecb653e7cb7a16dd9f9efd5c)] -> xpath: //input[@aria-label='Departure airport']]
+2023-07-19 11:35:31  INFO [main] FlightStatusObjectRepository:128 - Before get Screenshot
+2023-07-19 11:35:31  INFO [main] FlightStatusObjectRepository:113 - Screenshot is captured
+2023-07-19 11:35:31  INFO [main] FlightStatusObjectRepository:128 - Before get Screenshot
+2023-07-19 11:35:32  INFO [main] FlightStatusObjectRepository:113 - Screenshot is captured
+2023-07-19 11:35:32  INFO [main] FlightStatusObjectRepository:49 - Browser Terminated
+2023-07-19 11:35:32  INFO [main] FlightStatusObjectRepository:50 - -----------------------------------------------

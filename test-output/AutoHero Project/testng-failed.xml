@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [AutoHero Project]">
+  <listeners>
+    <listener class-name="com.autohero.utils.AnnotationTransformer"/>
+  </listeners>
+  <test thread-count="5" name="FunctionalValidation(failed)">
+    <classes>
+      <class name="com.autohero.testcases.TC001_SearchValidation">
+        <methods>
+          <include name="browser"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+          <include name="afterMethod"/>
+          <include name="validateProductSearch" invocation-numbers="0 0 1 1"/>
+          <include name="setValues"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.autohero.testcases.TC001_SearchValidation -->
+    </classes>
+  </test> <!-- FunctionalValidation(failed) -->
+</suite> <!-- Failed suite [AutoHero Project] -->

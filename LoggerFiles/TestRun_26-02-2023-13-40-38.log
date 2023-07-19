@@ -1,0 +1,94 @@
+2023-02-26 13:40:47  INFO [main] WebEventListener:16 - Before navigating to: 'https://www.autohero.com/de/search/'
+2023-02-26 13:40:51  INFO [main] WebEventListener:20 - Navigated to:'https://www.autohero.com/de/search/'
+2023-02-26 13:40:51  INFO [main] WebEventListener:81 - Browser is Launched
+2023-02-26 13:40:51  INFO [main] SearchPageObjectRepository:61 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]//parent::div
+2023-02-26 13:41:01  INFO [main] SearchPageObjectRepository:56 - Exception Occured: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(@class,'closeBtn')]//parent::div"}
+  (Session info: chrome=110.0.5481.105)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-R23SUR87', ip: '192.168.178.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.105, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\karth\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53515}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d6c82e274e6a2b41b812464346459719
+*** Element info: {Using=xpath, value=//button[contains(@class,'closeBtn')]//parent::div}
+2023-02-26 13:41:01  INFO [main] SearchPageObjectRepository:61 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]//parent::div
+2023-02-26 13:41:10  INFO [main] SearchPageObjectRepository:56 - Exception Occured: Cannot locate an element using xpath=//button[contains(@class,'closeBtn')]//parent::div
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-R23SUR87', ip: '192.168.178.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: driver.version: EventFiringWebDriver
+2023-02-26 13:41:10  INFO [main] SearchPageObjectRepository:305 - WebDriverException : Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //button[contains(@class,'closeBtn')]//parent::div' (tried for 10 second(s) with 500 milliseconds interval)
+2023-02-26 13:41:10  INFO [main] SearchPageObjectRepository:61 - Trying to Find Element By : By.id: carMakeFilter
+2023-02-26 13:41:10  INFO [main] SearchPageObjectRepository:56 - Exception Occured: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.105)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-R23SUR87', ip: '192.168.178.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.105, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\karth\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53515}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d6c82e274e6a2b41b812464346459719
+*** Element info: {Using=id, value=carMakeFilter}
+2023-02-26 13:41:10  INFO [main] SearchPageObjectRepository:128 - Before get Screenshot
+2023-02-26 13:41:10  INFO [main] SearchPageObjectRepository:56 - Exception Occured: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.105)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-R23SUR87', ip: '192.168.178.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.105, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\karth\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53515}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d6c82e274e6a2b41b812464346459719
+2023-02-26 13:41:11  INFO [main] SearchPageObjectRepository:48 - Browser Terminated
+2023-02-26 13:41:11  INFO [main] SearchPageObjectRepository:49 - -----------------------------------------------
+2023-02-26 13:41:13  INFO [main] WebEventListener:16 - Before navigating to: 'https://www.autohero.com/de/search/'
+2023-02-26 13:41:16  INFO [main] WebEventListener:20 - Navigated to:'https://www.autohero.com/de/search/'
+2023-02-26 13:41:16  INFO [main] WebEventListener:81 - Browser is Launched
+2023-02-26 13:41:16  INFO [main] SearchPageObjectRepository:61 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]//parent::div
+2023-02-26 13:41:16  INFO [main] SearchPageObjectRepository:56 - Exception Occured: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.105)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-R23SUR87', ip: '192.168.178.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.105, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\karth\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53582}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 68299de5384d86702a12524457857eae
+*** Element info: {Using=xpath, value=//button[contains(@class,'closeBtn')]//parent::div}
+2023-02-26 13:41:17  INFO [main] SearchPageObjectRepository:61 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]//parent::div
+2023-02-26 13:41:17  INFO [main] SearchPageObjectRepository:56 - Exception Occured: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.105)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-R23SUR87', ip: '192.168.178.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.105, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\karth\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53582}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 68299de5384d86702a12524457857eae
+*** Element info: {Using=xpath, value=//button[contains(@class,'closeBtn')]//parent::div}
+2023-02-26 13:41:17  INFO [main] SearchPageObjectRepository:61 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]//parent::div
+2023-02-26 13:41:17  INFO [main] SearchPageObjectRepository:56 - Exception Occured: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.105)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-R23SUR87', ip: '192.168.178.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.105, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\karth\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53582}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 68299de5384d86702a12524457857eae
+*** Element info: {Using=xpath, value=//button[contains(@class,'closeBtn')]//parent::div}
+2023-02-26 13:41:18  INFO [main] SearchPageObjectRepository:61 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]//parent::div
+2023-02-26 13:41:18  INFO [main] SearchPageObjectRepository:56 - Exception Occured: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.105)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-R23SUR87', ip: '192.168.178.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.105, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\karth\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53582}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 68299de5384d86702a12524457857eae
+*** Element info: {Using=xpath, value=//button[contains(@class,'closeBtn')]//parent::div}
+2023-02-26 13:41:18  INFO [main] SearchPageObjectRepository:61 - Trying to Find Element By : By.xpath: //button[contains(@class,'closeBtn')]//parent::div
+2023-02-26 13:41:18  INFO [main] SearchPageObjectRepository:56 - Exception Occured: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.105)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-R23SUR87', ip: '192.168.178.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.105, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\karth\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53582}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 68299de5384d86702a12524457857eae
+*** Element info: {Using=xpath, value=//button[contains(@class,'closeBtn')]//parent::div}
